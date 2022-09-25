@@ -1,0 +1,6 @@
+com\example\service\DepartmentService.class
+com\example\demo\SpringDepartmentApplication.class
+com\example\entity\Department.class
+com\example\repository\DepartmentRepository.class
+com\example\service\DepartmentServiceImp.class
+com\example\controller\DepartmentController.class
